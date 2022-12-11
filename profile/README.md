@@ -40,4 +40,4 @@ Along the way, one of these resources may help you!
 
 - Discoursy first started development in December of 2021 and initially launched on April 9th of 2022
 - We had over 30 names throughout 2022
-- The person who made eludris was the same person who inspired me to make Discoursy
+- The person who made [Eludris](https://github.com/eludris) was the same person who inspired me to make Discoursy
