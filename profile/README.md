@@ -1,7 +1,7 @@
 ## Introduction
 
 Welcome! We're Discoursy.
-We're a small, dedicated, team of developers
+We're a small team of dedicated developers
 working on trying to make the best platform ever! 
 
 ***Wanna help? Contributing is easy, really!***
