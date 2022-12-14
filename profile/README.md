@@ -4,7 +4,7 @@ Welcome! We're Discoursy.
 We're a small team of dedicated developers
 working on trying to make the best platform ever! 
 
-***Wanna help? Contributing is easy, really!***
+***Wanna help? Contributing is easy. Really!***
 
 ## Contributing
 
@@ -22,11 +22,11 @@ We'll eventually have a guide for this, and support.
 
 ### Codebase
 
-If you're a good 'ol developer with at least a bit of Pythob or JavaScript experience, you can help out with our codebase!
+If you're a good 'ol developer with at least a bit of Python or JavaScript experience, you can help out with our codebase!
 
-For Python developers, our most important aspect.. Our API of course!
+For Python developers, our most important aspect.. our API of course!
 
-And for JavaScript developers our second, or more our equally import aspects.. Our App and Website!
+And for JavaScript developers our second, or more our equally import aspects.. our App and Website!
 
 If you want to overlook the codebase, just head to the discoursy/discoursy repository.
 
