@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome! We're Discoursy.
+Welcome! We're Derailed.
 We're a small team of dedicated developers
 working on trying to make the best platform ever! 
 
@@ -16,7 +16,7 @@ If you want to contribute we have a bunch of categories for anyone!
 ### Internationalization (i8n)
 
 Of course a big aspect of any project which wants to go worldwide is the language!
-Especially, for Discoursy it's important for determining aspects and how to do anything.
+Especially, for Derailed it's important for determining aspects and how to do anything.
 
 We'll eventually have a guide for this, and support.
 
@@ -28,7 +28,7 @@ For Python developers, our most important aspect.. our API of course!
 
 And for JavaScript developers our second, or more our equally import aspects.. our App and Website!
 
-If you want to overlook the codebase, just head to the discoursy/discoursy repository.
+If you want to overlook the codebase, just head to the derailed/derailedapp repository.
 
 ## Useful Resources
 
@@ -38,6 +38,6 @@ Along the way, one of these resources may help you!
 
 ## Fun Facts
 
-- Discoursy first started development in December of 2021 and initially launched on April 9th of 2022
+- Derailed first started development in December of 2021 and initially launched on April 9th of 2022
 - We had over 30 names throughout 2022
-- The person who made [Eludris](https://github.com/eludris) was the same person who inspired me to make Discoursy
+- The person who made [Eludris](https://github.com/eludris) was the same person who inspired me to make Derailed
