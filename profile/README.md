@@ -13,6 +13,8 @@ in our minds. You took the time to look at our project and say, "hey, why not co
 
 If you want to contribute we have a bunch of categories for anyone!
 
+Just DM me, or ping me in the Discord to get access to our private repositories.
+
 ### Internationalization (i8n)
 
 Of course a big aspect of any project which wants to go worldwide is the language!
@@ -20,15 +22,24 @@ Especially, for Derailed it's important for determining aspects and how to do an
 
 We'll eventually have a guide for this, and support.
 
-### Codebase
+### Coders
 
-If you're a good 'ol developer with at least a bit of Python or JavaScript experience, you can help out with our codebase!
+#### JavaScript
 
-For Python developers, our most important aspect.. our API of course!
+If you're a JavaScript developer, or fluent with it, you can help us with our app soon!
+we're currently hard working with our backend though, so please give us time!
 
-And for JavaScript developers our second, or more our equally import aspects.. our App and Website!
+#### Python
 
-If you want to overlook the codebase, just head to the derailed/derailedapp repository.
+If you're a Python developer, you have one of, if not, our most important task at hand.
+Our API!
+
+It powers every part of the API and serves as a frontend for the backend.
+
+#### Elixir
+
+Elixir is the technology behind our real-time infrastructure. It's second on every backend poll, and serves as a way
+for users to receive messages from our backend in **real-time**.
 
 ## Useful Resources
 
@@ -39,5 +50,4 @@ Along the way, one of these resources may help you!
 ## Fun Facts
 
 - Derailed first started development in December of 2021 and initially launched on April 9th of 2022
-- We had over 30 names throughout 2022
 - The person who made [Eludris](https://github.com/eludris) was the same person who inspired me to make Derailed
