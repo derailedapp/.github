@@ -41,6 +41,21 @@ It powers every part of the API and serves as a frontend for the backend.
 Elixir is the technology behind our real-time infrastructure. It's second on every backend poll, and serves as a way
 for users to receive messages from our backend in **real-time**.
 
+#### Rust
+
+Rust Developers get to tackle our Database and Authorization Microservices, of which power the entire platform.
+It's only third since users never access Rust code *currently*.
+
+#### Leveling
+
+In terms of everything, we'd rate the most important being:
+
+- Python - Since it powers our API, the backbone.
+- Elixir - Since it powers our real-time event infrastructure, the Gateway.
+- Rust - Since it is the backbone of our private Microservice Infrastructure.
+- and Javascript - Since it's the main language used on our website, and henceforth the backbone of that and where users mainly come into.
+
+
 ## Useful Resources
 
 Along the way, one of these resources may help you!
