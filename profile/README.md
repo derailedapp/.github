@@ -26,8 +26,12 @@ We'll eventually have a guide for this, and support.
 
 #### JavaScript
 
-If you're a JavaScript developer, or fluent with it, you can help us with our app soon!
-we're currently hard working with our backend though, so please give us time!
+If you're a JavaScript developer, or fluent with it, you can help us out with our App!
+
+Our app is nonetheless one of the most important parts of our platform, being the place users
+interact with the most and use the most. **Where users actually use our other services.**
+
+So if you want to help just [go right here](https://github.com/derailedapp/app) and look at what you can do, or ask on the Discord.
 
 #### Python
 
