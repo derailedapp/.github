@@ -47,7 +47,7 @@ for users to receive messages from our backend in **real-time**.
 
 #### Rust
 
-Rust Developers get to tackle our Database and Authorization Microservices, of which power the entire platform.
+Rust Developers get to tackle our Authorization Microservice, of which power the entire platform's authorizing.
 It's only third since users never access Rust code *currently*.
 
 #### Leveling
