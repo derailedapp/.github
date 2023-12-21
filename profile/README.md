@@ -1,8 +1,12 @@
 ## Introduction
 
-Welcome! We're Derailed.
-We're a small team of dedicated developers working on making a platform where
-*you* decide *how* *you* chat and communicate. An app trying to reinvent modern social media.
+Welcome to the Derailed GitHub. This is where we share our open works with the incredible open-source community as well as build our great project.
+
+Derailed is a voice+video app focused on customizability, usability, and most of all versatility. It tries to be better than Discord by providing all of these, and more.
+
+Derailed is still a work-in-progress closed-alpha project, so sadly we can't give away too much.
+
+If you wanna join Derailed's closed beta however, you can register [via this form](https://forms.gle/ZjddjtHqZKR45h6e7). The closed beta doesn't have a specified ETA at this time.
 
 ## Useful Resources
 
