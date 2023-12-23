@@ -2,7 +2,7 @@
 
 Welcome to the Derailed GitHub. This is where we share our open works with the incredible open-source community as well as build our great project.
 
-Derailed is a voice+video app focused on customizability, usability, and most of all versatility. It tries to be better than Discord by providing all of these, and more.
+Derailed is a voice+text app focused on customizability, usability, and most of all versatility. It tries to be better than Discord by providing all of these, and more.
 
 Derailed is still a work-in-progress closed-alpha project, so sadly we can't give away too much.
 
