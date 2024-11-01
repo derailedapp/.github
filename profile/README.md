@@ -1,5 +1,7 @@
 ## Introduction
 
+**WARNING:** All public Derailed repositories are currently archived and unsupported.
+
 Welcome, this is Derailed. Derailed aims to create a stable,
 open platform for communication tailored not at investors but to you.
 
