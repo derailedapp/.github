@@ -2,15 +2,11 @@
 
 **WARNING:** All public Derailed repositories are currently archived and unsupported.
 
-Welcome, this is Derailed. Derailed aims to create a stable,
-open platform for communication tailored not at investors but to you.
+<!--TODO: add real description here-->
 
-Derailed is available under the open source AGPL-3.0 license, and
-is built with industry-grade tools proven to reliably
-steamroll through the railroad.
+The Open Source Social Media.
 
-## Useful Resources
+## Joining Along
 
-Along the way, one of these resources may help you:
-
-- [Temporary Discord Server](https://discord.gg/8fYVNRxRDc)
+You can join [temporary Discord server](https://discord.gg/8fYVNRxRDc) and go tag along with us...
+or if you're feeling even more generous, help contribute to our repository!
