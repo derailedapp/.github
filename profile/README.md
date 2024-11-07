@@ -1,6 +1,6 @@
 ## Introduction
 
-**WARNING:** All public Derailed repositories are currently archived and unsupported.
+**WARNING:** All [public](https://github.com/derailedapp/derailed) Derailed repositories are currently archived and unsupported.
 
 <!--TODO: add real description here-->
 
