@@ -1,7 +1,7 @@
 ## Introduction
 
 A social media where you are the platform. Decentralized social networking, instant messaging, and communities with
-the Derailed Protocol (Aurora,) and the soon-to-be released Derailed Client which allows you to use Derailed's entire featureset
+the Derailed Protocol (Aurora,) and Twilight which allows you to use Derailed's entire featureset
 with any server that implements Aurora.
 
 ## Inactivity Warning
