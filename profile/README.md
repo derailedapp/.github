@@ -1,16 +1,14 @@
 ## Derailed
 
-Derail yourself from the mess. Choose the secure, free, and federated social media.
-
 Derailed is a prototype, incomplete, in rapid development, social media attempting to combine
-all of the best features of Discord, Reddit, and Twitter into one federated and decentralized protocol.
+all of the best features of Discord, Reddit, and Twitter into one open and free social media app.
 
 Derailed's main goals are to be:
 
 - Quick, speedy, efficient.
 - Easy, simple, flexible.
 - Open, free, secure.
-- Moderatable, administrator-first, anti-abusive.
+- Fun, safe, anti-abusive.
 - Everything, everywhere, nothing, nowhere.
 
 ## Tagging Along
