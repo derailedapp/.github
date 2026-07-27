@@ -2,4 +2,8 @@
 
 Let's reinvent social media, together.
 
-There is nothing here, yet.
+### What is Derailed?
+
+Derailed is sociable.
+Derailed is original.
+Derailed is human.
